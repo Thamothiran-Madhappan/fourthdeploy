@@ -1,0 +1,16 @@
+{
+  "Configuration": {
+    "DatabaseName": "mendixdeploy",
+    "DatabasePassword": "root",
+    "DatabaseType": "MYSQL",
+    "DatabaseHost": "jdbc:mysql://0.0.0.0:3306",
+    "DatabaseUserName": "root",
+    "DatabaseUseIntegratedSecurity": "False",
+    "ApplicationRootUrl": "http://localhost:8080/",
+    "ScheduledEventExecution": "None"
+  },
+  "Constants": {
+    "NanoflowCommons.Nanoflow_Commons_Version": "2.1.0"
+  },
+  "AdminPassword": null
+}
